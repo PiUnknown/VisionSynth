@@ -1,0 +1,7 @@
+## 📄 'requirements.txt'
+
+```txt
+opencv-python
+ultralytics
+moviepy
+tk
