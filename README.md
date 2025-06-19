@@ -32,7 +32,6 @@ TrackVision-YOLOv8 is a Python-based video processing tool that:
 
 ```plaintext
 📂 Live Detection System/
-├─ 📂 Input_Vid/           ← Put your raw .mp4 files here
 ├─ 📂 Output_Vid/          ← Final videos saved here
 ├─ 📄 Main_Code.py         ← Your main script
 ├─ 📄 requirements.txt     ← Dependencies
@@ -76,6 +75,12 @@ Note: You must also have ffmpeg installed and available in your system's PATH fo
 C:\Users\Om\Desktop\Live Detection System\Output_Vid\output_<filename>_with_audio.mp4
 ~~~
 
+---
+
+## 🥸Things to keep in mind
+- Create a Folder for the Output video named as **Output_Vid**
+- The video should be of supported format.
+  
 ---
 
 ## 🔒 License
